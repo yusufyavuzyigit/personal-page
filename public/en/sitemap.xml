@@ -1,0 +1,248 @@
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="http://localhost:1313/tr/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/categories/authoring/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="http://localhost:1313/tr/categories/authoring/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/categories/authoring/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/authoring/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="http://localhost:1313/tr/tags/authoring/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/authoring/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/post/authoring-custom-taxonomy/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/categories/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="http://localhost:1313/tr/categories/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/categories/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/post/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="http://localhost:1313/tr/tags/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/taxonomy/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/alt/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="http://localhost:1313/tr/tags/alt/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/alt/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/audio/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="http://localhost:1313/tr/tags/audio/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/audio/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/post/authoring-cover-images-and-audio-article/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="http://localhost:1313/tr/post/ilk/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/post/authoring-cover-images-and-audio-article/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/content/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="http://localhost:1313/tr/tags/content/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/content/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/cover/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="http://localhost:1313/tr/tags/cover/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/cover/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/images/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="http://localhost:1313/tr/tags/images/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/images/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/media/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="http://localhost:1313/tr/tags/media/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/media/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/post/authoring-terms-entry/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/post/authoring-redaction-history/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/history/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/redaction/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/terms/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/accent/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/color/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/categories/configuration/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/configuration/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/post/configure-discussion/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/post/configure-slides/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/post/configure-logo-and-accent-color/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/post/configure-main-footer/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/post/configure-menu/</loc>
+    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/post/configure-pagefind/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/discussion/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/footer/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/categories/homepage/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/logo/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/markdown/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/post/markdown-test/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/menu/</loc>
+    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/pagefind/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/slide/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/categories/test/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/post/tufte-features/</loc>
+    <lastmod>2016-02-20T13:56:01-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/categories/katex/</loc>
+    <lastmod>2016-02-20T13:56:01-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/categories/latex/</loc>
+    <lastmod>2016-02-20T13:56:01-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/categories/tufte-css/</loc>
+    <lastmod>2016-02-20T13:56:01-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+</urlset>
